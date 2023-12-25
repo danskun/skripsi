@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1021058580032",
+    "firebase_url": "https://jakeats-skripsi-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "jakeats-skripsi",
+    "storage_bucket": "jakeats-skripsi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021058580032:android:ac68cf20d686421d0369a5",
+        "android_client_info": {
+          "package_name": "com.example.skripsi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsVSh3aMosZDksiMVrw2Keu-iVcJ-Nkqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
